@@ -7,14 +7,16 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 ## Checklist:
 - [x] update the assignment checks above to the correct link. - Done Automatically
 - [ ] All tests are passing
-- [ ] filled out the self-evaluation.
-- [ ] filled out the self-reflection.
+- [x] filled out the self-evaluation.
+- [x] filled out the self-reflection.
 
 ## Self-Evaluation: 
 how many points out of 20 does your team deserve on this assignment. Revise the assignment grading guideline and assignment rubrics for guidance.
+11/20
 
 ## Team Reflection:
 - Where did you encounter struggles today, and what did you do to deal with it?
-
+up until the game controller section I completed the assignment pretty easily and understood what I was doing, after that I was just trying to do the best I could though I didn't fully complete the assignment.
 
 ### How long it took us to finish this?
+12 hours
